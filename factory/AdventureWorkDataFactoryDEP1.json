@@ -1,0 +1,9 @@
+{
+	"name": "AdventureWorkDataFactoryDEP1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34cc150b-3b67-453f-b3c8-25d1c2ec4e39",
+		"tenantId": "e34eb9a1-044e-44ff-adf1-48be19a1a6a5"
+	}
+}
